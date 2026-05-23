@@ -1,0 +1,17 @@
+fastapi==0.136.1
+uvicorn==0.46.0
+pydantic==2.13.4
+python-multipart==0.0.27
+torch==2.11.0
+torchaudio==2.11.0
+librosa==0.9.1
+soundfile==0.13.1
+numpy==1.26.4
+scipy==1.15.3
+openai-whisper==20250625
+jiwer==4.0.0
+speechbrain==1.1.0
+transformers==4.51.3
+modelscope==1.20.0
+HyperPyYAML==1.2.3
+tqdm==4.67.3
